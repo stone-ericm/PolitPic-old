@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/stone/Desktop/st_jude/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/stone/Desktop/st_jude/app/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_ade337f217312a3c1e2a2d3ec69353722694c83d.jar" />
+    </item>
+    <item
+        jar="/home/stone/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/stone/Desktop/st_jude/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_dc4390cea59e97c1ca7a1938e32fea125cd3db6a.jar" />
+    </item>
+    <item
+        jar="/home/stone/Desktop/st_jude/app/build/intermediates/exploded-aar/com.android.volley/volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3406197867499f35b7aca1ebab1fa92cf345b8be">
+        <dex dex="/home/stone/Desktop/st_jude/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-unspecified_fbc2293964c7eff2b480bd268ef4f0952849915e.jar" />
+    </item>
+    <item
+        jar="/home/stone/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5.1/eecbb0b998e77629862a13d957d552b3be58fc4e/httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="/home/stone/Desktop/st_jude/app/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5.1_fd9f41ee5e3e51f5f69a064c407ff009957ed477.jar" />
+    </item>
+    <item
+        jar="/home/stone/Desktop/st_jude/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/stone/Desktop/st_jude/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_1c2853c76ff4a0fdbb797bcc55f15609aaca7737.jar" />
+    </item>
+    <item
+        jar="/home/stone/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3/5b0002c5fb66867ca919be0fbd86de1cfaf76da7/httpmime-4.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="/home/stone/Desktop/st_jude/app/build/intermediates/pre-dexed/debug/httpmime-4.3_d86a2ece9fbd2397289f6d4fbf7d5fb10b11475c.jar" />
+    </item>
+    <item
+        jar="/home/stone/Desktop/st_jude/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/stone/Desktop/st_jude/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_a05494007f165efaba61d8c09b11a8b485bf0fd4.jar" />
+    </item>
+    <item
+        jar="/home/stone/Desktop/st_jude/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/stone/Desktop/st_jude/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_6f67b5e158791aa061e9b67ede2b9a97457411ec.jar" />
+    </item>
+
+</items>
