@@ -292,10 +292,6 @@ public class PhotoIntentActivity extends Activity {
     ) {
         if (isIntentAvailable(this, intentName)) {
             btn.setOnClickListener(onClickListener);
-        } else {
-            btn.setText(
-                    getText(R.string.cannot).toString() + " " + btn.getText());
-            btn.setClickable(false);
         }
     }
 

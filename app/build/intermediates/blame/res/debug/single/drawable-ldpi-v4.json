@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/stone/Desktop/st_jude/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_camera.png",
-        "source": "/home/stone/Desktop/st_jude/app/build/generated/res/pngs/debug/drawable-ldpi/ic_camera.png"
+        "merged": "/home/eric/Desktop/politipic-old/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_camera.png",
+        "source": "/home/eric/Desktop/politipic-old/app/build/generated/res/pngs/debug/drawable-ldpi/ic_camera.png"
     },
     {
-        "merged": "/home/stone/Desktop/st_jude/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
-        "source": "/home/stone/Desktop/st_jude/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "/home/eric/Desktop/politipic-old/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/eric/Desktop/politipic-old/app/src/main/res/drawable-ldpi/icon.png"
     }
 ]

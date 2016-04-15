@@ -1,7 +1,0 @@
--keep class com.byteacademy.android.politicalfaces.PhotoIntentActivity { <init>(); }
--keep public class * extends android.app.backup.BackupAgent {
-    <init>();
-}
--keep public class * extends java.lang.annotation.Annotation {
-    *;
-}
